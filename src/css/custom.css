@@ -42,6 +42,17 @@
   background: var(--ifm-background-surface-color);
 }
 
+main a:not(.button) {
+  text-decoration: underline;
+  text-decoration-thickness: 0.08em;
+  text-underline-offset: 0.12em;
+}
+
+main a:not(.button):hover,
+main a:not(.button):focus-visible {
+  text-decoration-thickness: 0.14em;
+}
+
 /* Ensure visible focus without relying on color alone */
 :focus-visible {
   outline: 3px solid var(--ifm-color-primary);

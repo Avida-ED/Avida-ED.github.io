@@ -24,7 +24,11 @@ When reporting a problem, include:
 
 ## Contact
 
-Provide a project email or issue tracker link here once you decide on the preferred support channel.
+Until a project email is listed here, use the site repository's issue tracker to report site problems and accessibility barriers:
+
+- [Avida-ED website issues](https://github.com/Avida-ED/Avida-ED.github.io/issues)
+
+If you are using Avida-ED in a course, also contact your instructor so that an immediate accommodation or alternative format can be arranged locally.
 
 ## Common support paths
 

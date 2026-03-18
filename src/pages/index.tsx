@@ -9,7 +9,7 @@ function Card(props: { title: string; children: React.ReactNode; to: string }) {
       <div className="aeCard">
         <h3>{props.title}</h3>
         <p>{props.children}</p>
-        <Link className="button button--secondary button--sm" to={props.to}>
+        <Link className="button button--secondary button--sm" to={props.to} aria-label={`Start with ${props.title}`}>
           Start here
         </Link>
       </div>

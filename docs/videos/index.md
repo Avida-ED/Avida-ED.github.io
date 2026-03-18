@@ -13,6 +13,8 @@ Every video placed on this site should have:
 - a transcript page
 - a short text summary for users who do not use video
 
+If a legacy video does not yet meet that standard, it should be treated as archival reference material rather than the required primary path for a lesson.
+
 ## Start here
 
 - [Teacher Overview](./teacher-overview.md)
