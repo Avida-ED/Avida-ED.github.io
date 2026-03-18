@@ -6,12 +6,12 @@ const config: Config = {
   tagline: 'Digital evolution for science education',
   favicon: 'img/favicon.ico',
 
-  // Repo Pages default:
+  // GitHub user/org site hosted at the domain root.
   url: 'https://avida-ed.github.io',
-  baseUrl: '/avida-ed-site/',
+  baseUrl: '/',
 
   organizationName: 'Avida-ED',
-  projectName: 'avida-ed-site',
+  projectName: 'Avida-ED.github.io',
   trailingSlash: true,
 
   onBrokenLinks: 'throw',
@@ -33,7 +33,7 @@ const config: Config = {
         docs: {
           routeBasePath: 'docs',
           sidebarPath: './sidebars.ts',
-          editUrl: 'https://github.com/Avida-ED/avida-ed-site/edit/main/',
+          editUrl: 'https://github.com/Avida-ED/Avida-ED.github.io/edit/main/',
           showLastUpdateAuthor: false,
           showLastUpdateTime: true
         },
@@ -58,7 +58,7 @@ const config: Config = {
         { to: '/docs/support/', label: 'Support', position: 'left' },
         { to: '/docs/about/', label: 'About', position: 'left' },
         {
-          href: 'https://github.com/Avida-ED/avida-ed-site',
+          href: 'https://github.com/Avida-ED/Avida-ED.github.io',
           label: 'GitHub',
           position: 'right'
         }
