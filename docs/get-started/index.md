@@ -11,6 +11,7 @@ Avida-ED helps students learn evolution and the nature of science by running **d
 2. **Check your device/browser:** see [System Requirements](./system-requirements.md).
 3. **Run your first experiment:** follow [First Experiment](./first-experiment.md).
 4. If something fails, use the [Troubleshooting Checklist](./troubleshooting.md).
+5. If you need local/offline use, see [Offline and Download Options](./offline-and-download.md).
 
 ## Who is this for?
 

@@ -19,6 +19,17 @@ Every video placed on this site should have:
 - [Student Walkthroughs](./student-walkthroughs.md)
 - [Getting Started Transcript](./transcripts/getting-started-video.md)
 
+## Legacy video resources already identified
+
+The legacy curriculum and support pages referenced:
+
+- an Avida-ED 3 tutorial on YouTube
+- Avida-ED 4 tutorial videos
+- a QUBES walk-through with Cory Kohn and Louise Mead
+- exercise-specific MSU Mediaspace videos for the lab book
+
+These should be re-published here with stable metadata and transcript coverage.
+
 ## When to use videos
 
 - before the first classroom run

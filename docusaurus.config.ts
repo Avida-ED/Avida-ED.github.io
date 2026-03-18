@@ -73,6 +73,7 @@ const config: Config = {
           items: [
             { label: 'Get Started', to: '/docs/get-started/' },
             { label: 'Curriculum', to: '/docs/curriculum/' },
+            { label: 'Offline & Download', to: '/docs/get-started/offline-and-download/' },
             { label: 'Teacher Quick Start', to: '/docs/teachers/quick-start/' },
             { label: 'Student First Steps', to: '/docs/students/first-steps/' }
           ]

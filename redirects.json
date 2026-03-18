@@ -1,0 +1,12 @@
+{
+  "/index.html": "/",
+  "/curriculum/": "/docs/curriculum/",
+  "/support/": "/docs/support/",
+  "/instructor-faqs/": "/docs/support/instructor-faq/",
+  "/student-faqs/": "/docs/support/student-faq/",
+  "/digital-evolution/": "/docs/about/research-background/",
+  "/about-us/": "/docs/about/",
+  "/download-avida-ed/": "/docs/get-started/offline-and-download/",
+  "/app/": "https://avida-ed.github.io/avida-ed3/",
+  "/app4/": "https://avida-ed.github.io/avida-ed4/"
+}

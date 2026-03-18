@@ -11,6 +11,12 @@ This page is the placeholder for student-facing walkthrough videos.
 - changing one variable and comparing results
 - exporting or capturing evidence for submission
 
+## Legacy resources to preserve
+
+- introductory screencast for students from the old FAQ/support pages
+- quick-start orientation from the lab book materials
+- exercise-specific walkthroughs attached to the curriculum page
+
 ## Text-first fallback
 
 Students should always be able to complete the assignment with:

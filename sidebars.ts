@@ -10,7 +10,8 @@ const sidebars: SidebarsConfig = {
         'get-started/choose-version',
         'get-started/system-requirements',
         'get-started/first-experiment',
-        'get-started/troubleshooting'
+        'get-started/troubleshooting',
+        'get-started/offline-and-download'
       ]
     },
     {
@@ -62,7 +63,8 @@ const sidebars: SidebarsConfig = {
       items: [
         'about/research-background',
         'about/team-and-acknowledgments',
-        'about/how-to-cite'
+        'about/how-to-cite',
+        'about/legacy-redirects'
       ]
     }
   ]
