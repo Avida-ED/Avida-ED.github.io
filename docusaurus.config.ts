@@ -13,6 +13,7 @@ const config: Config = {
   organizationName: 'Avida-ED',
   projectName: 'Avida-ED.github.io',
   trailingSlash: true,
+  staticDirectories: ['public'],
 
   onBrokenLinks: 'throw',
   markdown: {
