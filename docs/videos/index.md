@@ -17,6 +17,7 @@ Every video placed on this site should have:
 
 - [Teacher Overview](./teacher-overview.md)
 - [Student Walkthroughs](./student-walkthroughs.md)
+- [Resource Library](./resource-library.md)
 - [Getting Started Transcript](./transcripts/getting-started-video.md)
 
 ## Legacy video resources already identified

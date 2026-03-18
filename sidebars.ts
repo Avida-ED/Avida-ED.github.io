@@ -20,8 +20,12 @@ const sidebars: SidebarsConfig = {
       link: { type: 'doc', id: 'curriculum/index' },
       items: [
         'curriculum/classroom-activities',
+        'curriculum/introduction-digital-evolution',
+        'curriculum/exercise-1-random-mutation',
+        'curriculum/lab-book-resources',
         'curriculum/lesson-packs',
-        'curriculum/data-analysis-guides'
+        'curriculum/data-analysis-guides',
+        'curriculum/legacy-resource-library'
       ]
     },
     {
@@ -43,6 +47,7 @@ const sidebars: SidebarsConfig = {
       items: [
         'videos/teacher-overview',
         'videos/student-walkthroughs',
+        'videos/resource-library',
         'videos/transcripts/getting-started-video'
       ]
     },

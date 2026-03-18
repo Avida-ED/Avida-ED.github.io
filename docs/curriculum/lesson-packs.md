@@ -24,6 +24,7 @@ Each lesson pack should include:
 - Audience: first-time Avida-ED users
 - Focus: mutations as a source of genetic variability and what it means for mutation to occur randomly
 - Deliverable: short explanation supported by observations about genomic change
+- HTML-first page: [Exercise 1: Random Mutation and Genetic Variation](./exercise-1-random-mutation.md)
 
 ### From genotype to phenotype
 
@@ -67,6 +68,8 @@ Use this page as a stable index and link outward to:
 
 - [Teacher Quick Start](../teachers/quick-start.md)
 - [Student First Steps](../students/first-steps.md)
+- [Lab Book Resources](./lab-book-resources.md)
+- [Legacy Resource Library](./legacy-resource-library.md)
 - [Videos & Guides](../videos/index.md)
 
 ## Migration note

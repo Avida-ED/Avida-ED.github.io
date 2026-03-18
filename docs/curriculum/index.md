@@ -8,8 +8,12 @@ Avida-ED curriculum materials help teachers move from "launch the app" to "run a
 ## Start with these
 
 - [Classroom Activities](./classroom-activities.md)
+- [Introduction: Avida-ED and Digital Evolution](./introduction-digital-evolution.md)
+- [Exercise 1: Random Mutation and Genetic Variation](./exercise-1-random-mutation.md)
+- [Lab Book Resources](./lab-book-resources.md)
 - [Lesson Packs](./lesson-packs.md)
 - [Data Analysis Guides](./data-analysis-guides.md)
+- [Legacy Resource Library](./legacy-resource-library.md)
 
 ## Avida-ED lab book
 
@@ -36,6 +40,11 @@ Key items from the legacy site:
 - Quick Start User Manual
 
 These should be migrated over time into HTML-first pages, but they remain useful as a content backbone for the new site.
+
+The first HTML-first migrations now available in this site are:
+
+- [Introduction: Avida-ED and Digital Evolution](./introduction-digital-evolution.md)
+- [Exercise 1: Random Mutation and Genetic Variation](./exercise-1-random-mutation.md)
 
 ## Model lessons migrated from the legacy site
 
