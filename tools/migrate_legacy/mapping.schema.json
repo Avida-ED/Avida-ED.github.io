@@ -1,0 +1,33 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "MappingEntry",
+  "type": "object",
+  "required": ["source", "dest", "page_type", "confidence", "notes"],
+  "properties": {
+    "source": { "type": "string" },
+    "dest": { "type": "string" },
+    "page_type": {
+      "type": "string",
+      "enum": [
+        "get_started.index",
+        "get_started.choose_version",
+        "get_started.system_requirements",
+        "get_started.first_experiment",
+        "get_started.troubleshooting",
+        "teachers.index",
+        "teachers.quick_start",
+        "students.index",
+        "students.first_steps",
+        "support.index",
+        "support.accessibility",
+        "about.index",
+        "about.how_to_cite",
+        "archive.review"
+      ]
+    },
+    "confidence": { "type": "number", "minimum": 0, "maximum": 1 },
+    "notes": { "type": "string" },
+    "legacy_title": { "type": "string" }
+  },
+  "additionalProperties": false
+}

@@ -1,0 +1,24 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "LinkMap",
+  "type": "object",
+  "required": ["generated_at", "entries"],
+  "properties": {
+    "generated_at": { "type": "string" },
+    "entries": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["legacy_ref", "new_ref", "confidence"],
+        "properties": {
+          "legacy_ref": { "type": "string" },
+          "new_ref": { "type": "string" },
+          "confidence": { "type": "number", "minimum": 0, "maximum": 1 }
+        },
+        "additionalProperties": false
+      }
+    }
+  },
+  "additionalProperties": false
+}
+

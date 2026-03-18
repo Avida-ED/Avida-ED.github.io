@@ -1,0 +1,31 @@
+{
+  "name": "avida-ed-site",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Avida-ED project site (teachers/students-first) built with Docusaurus.",
+  "license": "CC-BY-4.0",
+  "scripts": {
+    "start": "docusaurus start",
+    "build": "docusaurus build",
+    "serve": "docusaurus serve --no-open",
+    "clear": "docusaurus clear",
+    "typecheck": "tsc --noEmit",
+    "lint:links": "node ./scripts/link-check.js"
+  },
+  "dependencies": {
+    "@docusaurus/core": "^3.6.0",
+    "@docusaurus/preset-classic": "^3.6.0",
+    "@mdx-js/react": "^3.0.0",
+    "clsx": "^2.1.1",
+    "prism-react-renderer": "^2.4.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "typescript": "^5.6.3",
+    "@types/node": "^22.10.1",
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.3.1",
+    "pa11y-ci": "^3.1.0"
+  }
+}

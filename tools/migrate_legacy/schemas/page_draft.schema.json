@@ -1,0 +1,23 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "PageDraft",
+  "type": "object",
+  "required": ["dest", "frontmatter", "markdown", "source_files", "warnings", "generated_marker"],
+  "properties": {
+    "dest": { "type": "string" },
+    "frontmatter": {
+      "type": "object",
+      "required": ["title"],
+      "properties": {
+        "title": { "type": "string" },
+        "sidebar_position": { "type": "integer" }
+      },
+      "additionalProperties": true
+    },
+    "markdown": { "type": "string" },
+    "source_files": { "type": "array", "items": { "type": "string" } },
+    "warnings": { "type": "array", "items": { "type": "string" } },
+    "generated_marker": { "type": "boolean" }
+  },
+  "additionalProperties": false
+}

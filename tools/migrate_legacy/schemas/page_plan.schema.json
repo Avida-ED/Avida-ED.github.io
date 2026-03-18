@@ -1,0 +1,30 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "PagePlan",
+  "type": "object",
+  "required": ["page_id", "dest", "page_type", "title", "source_files", "source_order", "required_sections", "notes", "warnings"],
+  "properties": {
+    "page_id": { "type": "string" },
+    "dest": { "type": "string" },
+    "page_type": { "type": "string" },
+    "title": { "type": "string" },
+    "source_files": { "type": "array", "items": { "type": "string" }, "minItems": 1 },
+    "source_order": { "type": "array", "items": { "type": "string" }, "minItems": 1 },
+    "required_sections": { "type": "array", "items": { "type": "string" } },
+    "link_intents": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["legacy", "new_hint"],
+        "properties": {
+          "legacy": { "type": "string" },
+          "new_hint": { "type": "string" }
+        },
+        "additionalProperties": false
+      }
+    },
+    "notes": { "type": "string" },
+    "warnings": { "type": "array", "items": { "type": "string" } }
+  },
+  "additionalProperties": false
+}

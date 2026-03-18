@@ -1,0 +1,14 @@
+{
+  "defaults": {
+    "standard": "WCAG2AA",
+    "timeout": 60000,
+    "wait": 500
+  },
+  "urls": [
+    "http://localhost:3000/",
+    "http://localhost:3000/docs/get-started/",
+    "http://localhost:3000/docs/teachers/",
+    "http://localhost:3000/docs/students/",
+    "http://localhost:3000/docs/support/accessibility/"
+  ]
+}

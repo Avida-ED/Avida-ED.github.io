@@ -1,0 +1,44 @@
+global:
+  strict_allowlist: false
+  exclude_patterns:
+    - "**/tmp/**"
+    - "**/old/**"
+    - "**/draft/**"
+  archive_patterns:
+    - "**/news/**"
+    - "**/blog/**"
+    - "**/announcements/**"
+
+pages:
+  teachers.quick_start:
+    force_include: []
+    prefer_include_patterns:
+      - "**/teacher**"
+      - "**/lesson**"
+      - "**/curriculum**"
+    forbid_patterns:
+      - "**/developer**"
+      - "**/release-notes**"
+    dest_override: "docs/teachers/quick-start.md"
+
+  students.first_steps:
+    prefer_include_patterns:
+      - "**/student**"
+      - "**/worksheet**"
+    forbid_patterns: []
+
+  get_started.system_requirements:
+    prefer_include_patterns:
+      - "**/requirements**"
+      - "**/browser**"
+      - "**/install**"
+    forbid_patterns:
+      - "**/java-applet**"
+      - "**/ie6**"
+
+  about.how_to_cite:
+    prefer_include_patterns:
+      - "**/cite**"
+      - "**/publication**"
+    forbid_patterns: []
+
