@@ -2,36 +2,38 @@
 title: Support
 ---
 
-This section helps you resolve problems quickly and report issues with enough detail to be actionable.
+This section is for resolving problems quickly and reporting issues clearly.
 
 ## Fast links
 
-- [Troubleshooting Checklist](../get-started/troubleshooting.md)
 - [Instructor FAQ](./instructor-faq.md)
-- [Student FAQ](./student-faq.md)
+- [Troubleshooting](./troubleshooting.md)
+- [Reporting Problems](./reporting-problems.md)
 - [Accessibility](./accessibility.md)
-- [Classroom Tips](../teachers/classroom-tips.md)
+- [Launch Avida-ED](/app)
 
-## Reporting an issue
+## When reporting a problem
 
-When reporting a problem, include:
+Include:
 
-- which version (Avida-ED 4 or Avida-ED 3)
-- browser + version
+- which version you used
+- browser and version
 - device type
-- steps to reproduce
-- screenshot or short screen recording (if permitted)
+- the exact step where the problem happened
+- a screenshot or short recording if permitted
 
-## Contact
+Use [Reporting Problems](./reporting-problems.md) if you need a structured
+template for classroom support requests.
 
-Until a project email is listed here, use the site repository's issue tracker to report site problems and accessibility barriers:
+## Support focus
 
-- [Avida-ED website issues](https://github.com/Avida-ED/Avida-ED.github.io/issues)
+This section is the main support path for classroom use. Start here when you
+need help launching the app, diagnosing a lesson problem, reporting a bug, or
+finding accessibility-related guidance.
 
-If you are using Avida-ED in a course, also contact your instructor so that an immediate accommodation or alternative format can be arranged locally.
+If the problem is tied to a specific assignment, also keep the relevant
+instructional page open:
 
-## Common support paths
-
-- Teachers setting up class: start with [Teacher Quick Start](../teachers/quick-start.md).
-- Students submitting work: use [Reports and Submission](../students/reports-and-submission.md).
-- Anyone choosing between versions: start with [Choose a Version](../get-started/choose-version.md).
+- [For Students](../students/index.md)
+- [For Instructors](/curriculum)
+- [Curriculum](/curriculum)

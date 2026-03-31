@@ -5,10 +5,10 @@
   "description": "Avida-ED project site (teachers/students-first) built with Docusaurus.",
   "license": "CC-BY-4.0",
   "scripts": {
-    "start": "docusaurus start",
-    "build": "docusaurus build",
-    "serve": "docusaurus serve --no-open",
-    "clear": "docusaurus clear",
+    "start": "node ./node_modules/@docusaurus/core/bin/docusaurus.mjs start",
+    "build": "USE_SIMPLE_CSS_MINIFIER=true node ./node_modules/@docusaurus/core/bin/docusaurus.mjs build",
+    "serve": "node ./node_modules/@docusaurus/core/bin/docusaurus.mjs serve --no-open",
+    "clear": "node ./node_modules/@docusaurus/core/bin/docusaurus.mjs clear",
     "typecheck": "tsc --noEmit",
     "lint:links": "node ./scripts/link-check.js"
   },
@@ -22,10 +22,10 @@
     "react-dom": "^18.3.1"
   },
   "devDependencies": {
-    "typescript": "^5.6.3",
     "@types/node": "^22.10.1",
     "@types/react": "^18.3.12",
     "@types/react-dom": "^18.3.1",
-    "pa11y-ci": "^3.1.0"
+    "pa11y-ci": "^4.0.1",
+    "typescript": "^5.6.3"
   }
 }

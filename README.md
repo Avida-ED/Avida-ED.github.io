@@ -1,33 +1,78 @@
-# Avida-ED Project Site (Docusaurus)
+# Avida-ED-Test3
 
-This repository contains the public Avida-ED project website built with Docusaurus.
+This repository is the current `Avida-ED-Test3` site prototype and migration
+workspace. It uses Docusaurus as the site engine, but the site is being shaped
+away from default Docusaurus "docs" presentation and toward a simpler public
+website for learners and instructors.
 
-## Local development
+The current site includes:
 
-Prerequisites: Node.js 20+
+- a custom landing page with logo, overview video, and audience-first entry
+  points
+- public pages for app access, support, downloads, archive/news, and project
+  background
+- page-based curriculum content under `src/pages/curriculum/`
+- student, support, and video content under `docs/`, including transcript-first
+  migration work
+- local scripts and process documents for media transcription and transcript
+  publication
+
+## Requirements
+
+- Node.js 18+
+
+## Install
 
 ```bash
-npm ci
-npm run start
+npm install
+```
 
-Build
+## Build
 
+```bash
 npm run build
-npm run serve
+```
 
-Editing content
+## Site structure
 
-Most content is in docs/ as Markdown. Edit via GitHub web UI or a local editor and submit a pull request.
-Deployment
+- `src/pages/`
+  public site pages and the active page-based curriculum content
+- `docs/`
+  selected docs-rendered content, including student/support/video sections and
+  a reduced instructor comparison example
+- `static/`
+  public assets copied directly into the built site
+- `scripts/`
+  local transcription and publication tooling plus process notes
 
-The site deploys to GitHub Pages via .github/workflows/deploy.yml on pushes to main.
-Accessibility
+## Transcript workflow
 
-    Prefer HTML pages over PDFs.
+For media-to-transcript migration work, see
+[scripts/README.md](/mnt/CIFS/pengolodh/Docs/Projects/genai/codex-projects/web-avida-ed-codex/Avida-ED-Test3/scripts/README.md).
 
-    Provide alt text for meaningful images.
+The detailed remaining process document is at
+[scripts/VIDEO_PROCESS.md](/mnt/CIFS/pengolodh/Docs/Projects/genai/codex-projects/web-avida-ed-codex/Avida-ED-Test3/scripts/VIDEO_PROCESS.md).
 
-    Provide captions and transcripts for videos.
+For repo promotion and GitHub setup steps, see
+[REPO_PROMOTION_PROCESS.md](/mnt/CIFS/pengolodh/Docs/Projects/genai/codex-projects/web-avida-ed-codex/Avida-ED-Test3/REPO_PROMOTION_PROCESS.md).
 
-    PRs run an accessibility smoke test (pa11y) against key pages.
+## Hosting large assets
 
+GitHub rejects files larger than 95 MB, so installers, videos, or archives that
+exceed that limit should reside under `staging/` instead of `static/`. Document
+each staging asset inside `staging/README.md`, noting the intended permanent
+host (cloud storage, external archive, mirror repo, etc.) and which page(s) need
+their URLs updated once the host is ready. After you publish the file at that
+host, switch the content links from `staging/...` to the final location and
+remove the staging copy so the repo stays within GitHub’s size limit.
+
+The local workflow now has two stages:
+
+- `scripts/transcribe_media.py` for media-to-draft transcript generation
+- `scripts/publish_transcript.py` for promoting reviewed drafts into
+  `docs/videos/`
+
+## Repo process
+
+For the repo promotion history and ongoing repo/process notes, see
+[REPO_PROMOTION_PROCESS.md](/mnt/CIFS/pengolodh/Docs/Projects/genai/codex-projects/web-avida-ed-codex/Avida-ED-Test3/REPO_PROMOTION_PROCESS.md).

@@ -2,66 +2,105 @@
 title: Instructor FAQ
 ---
 
-This page collects common planning and classroom-management questions from instructors, using the legacy FAQ as source material but updating the guidance around the current site structure.
+This page carries forward the most durable instructor-facing guidance from the
+legacy support materials.
 
-## Which version should I teach with?
+## What courses can Avida-ED be used for?
 
-Start with **Avida-ED 4** unless you have a specific legacy lesson, worksheet, or course sequence that depends on Avida-ED 3.
-
-## What courses can Avida-ED support?
-
-The legacy instructor FAQ reported use in:
-
-- undergraduate biology courses for majors and non-majors
-- introductory and upper-division biology
-- undergraduate computer science courses teaching digital evolution
-- some high school Advanced Placement biology contexts
-
-The new site should continue to support that range while presenting teachers and students as the primary audiences.
+Avida-ED was designed primarily for undergraduate biology courses and has been
+used in introductory and upper-division settings, major and non-major courses,
+and some high school biology contexts, including AP-style settings. It has also
+been used in computing and digital-evolution-related teaching.
 
 ## Is there evidence that Avida-ED is effective in the classroom?
 
-Yes. The legacy FAQ pointed to classroom-effectiveness research showing learning gains and increased acceptance of evolution. The current [Research Background](../about/research-background.md) page collects the main cited publications.
+Yes. Avida-ED has been used in classroom studies that examined learning gains,
+scientific understanding, and student engagement with evolution-related ideas.
+For bundled readings in this site, start with
+[Publications](/curriculum/publications).
 
-## How much class time do I need?
+## How should my students get Avida-ED?
 
-You can use Avida-ED in a single class period for a guided activity, or across multiple periods for comparison and inquiry work. See [Classroom Activities](../curriculum/classroom-activities.md).
+For current use, direct students to the web-based launch path:
 
-## How should students get Avida-ED?
+- [Launch Avida-ED](/app)
+- [For Students](../students/index.md)
 
-For most classes, direct students to the web version and begin with [Choose a Version](../get-started/choose-version.md). If you need a local or long-term-use option, use [Offline and Download Options](../get-started/offline-and-download.md).
+Older download and standalone paths should now be treated as fallback or archive
+material rather than the primary classroom recommendation.
 
-## What should students submit?
+## What platforms does Avida-ED run on?
 
-Choose one of these before class:
+Legacy guidance emphasized Firefox and Chrome and warned about Safari and
+Internet Explorer. That version-specific browser guidance is now dated, but the
+core principle still holds:
 
-- short explanation of what changed and what happened
-- comparison table across runs
-- exported data and graph
-- report or presentation for longer inquiries
+- test the exact device and browser setup your students will use
+- test shared lab machines or managed school devices before class day
+- avoid relying on old screenshots or platform assumptions
+- prefer the current web version unless you specifically need offline support
 
-## What setup mistakes cause the most trouble?
+## How much does it cost?
 
-- not testing the classroom browser/device combination
-- changing multiple variables at once
-- not telling students what evidence they need to save
-- using legacy instructions with the wrong app version
+Avida-ED is free.
 
-## Are curricular materials available?
+## Are there curricular materials available?
 
-Yes. The legacy site provided peer-reviewed model exercises, student handouts, and instructor support materials under a Creative Commons license. Start with [Curriculum](../curriculum/index.md) and [Lesson Packs](../curriculum/lesson-packs.md).
+Yes. The instructor curriculum section in this site is the new home for:
 
-## How can I contribute to the project?
+- lab manual sequencing
+- model lessons
+- quick-start teaching guidance
 
-The legacy FAQ invited instructors to:
+The legacy site also emphasized two points that still matter:
 
-- submit bug reports
-- contribute new lessons
-- help test newer versions
-- allow their class to participate in assessment studies
+- many curricular materials were developed for reuse under a Creative Commons
+  license
+- some instructor support material and answer keys were historically distributed
+  separately to verified instructors
 
-That contribution path should stay available once the preferred contact channel is finalized on the [Support](./index.md) page.
+Start with [Curriculum](/curriculum) for the active teaching materials.
 
-## Where should I send students when they are stuck?
+## How can I contribute?
 
-Direct them first to [Student FAQ](./student-faq.md) and [Troubleshooting Checklist](../get-started/troubleshooting.md). Keep [Classroom Tips](../teachers/classroom-tips.md) available for your own quick reference.
+Useful contributions include:
+
+- reporting bugs clearly
+- contributing lesson ideas or classroom adaptations
+- helping test updated materials
+- sharing how Avida-ED is used in real courses
+- participating in future classroom studies or pilot use when requested
+
+## What future features are planned?
+
+Historically, the project discussed possible future expansions such as richer
+environmental controls and other advanced options. For classroom use, the more
+important question is whether the current version supports your lesson goals and
+device constraints right now. If it does, start from [Launch Avida-ED](/app)
+and the [instructor curriculum section](../instructors/index.md).
+
+## What should I include in a support report?
+
+When reporting problems, include:
+
+- the exact URL or page you were on (curriculum exercise, support page, etc.)
+- the version/branch of Avida‑ED you launched
+- the browser name/version or device information
+- a short description of what worked, what broke, and any console or export
+  output you have
+- any steps students took immediately before the issue occurred
+
+Use [Reporting Problems](./reporting-problems.md) for a structured template that
+can be forwarded to the dev team or posted in a classroom discussion board.
+
+## What if students cannot launch the app?
+
+- Verify the network allows connections to `https://avida-ed.github.io`.
+- Reload once before changing lesson settings; many issues resolve with a
+  simple refresh.
+- If you are in a managed lab, make sure the specific browser version is
+  permitted (Chrome/Firefox are safest).  
+- Avoid older browsers like Safari 13 or Internet Explorer 11 for current
+  lessons.  
+- When you still need an offline fallback, document it as part of your report so
+  support can mention the [download/offline guidance](/download) section.

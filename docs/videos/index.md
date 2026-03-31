@@ -1,40 +1,34 @@
 ---
-title: Videos & Guides
-sidebar_position: 1
+title: Videos and Transcripts
 ---
 
-Use this section for short walkthroughs that support classroom use of Avida-ED.
+This section is the transcript-first home for Avida-ED video support material.
 
-## Accessibility standard
+## Purpose
 
-Every video placed on this site should have:
+This section treats transcripts and text alternatives as first-class
+instructional content. Use it when you need video-related help in a format that
+is easier to scan, quote, share, and support accessibly.
 
-- captions
-- a transcript page
-- a short text summary for users who do not use video
+## What belongs here
 
-If a legacy video does not yet meet that standard, it should be treated as archival reference material rather than the required primary path for a lesson.
+- orientation videos for students
+- walkthrough videos for instructors
+- transcript pages with light cleanup and terminology correction
+- notes about which videos are still draft or legacy materials
 
-## Start here
+## Current collection
 
-- [Teacher Overview](./teacher-overview.md)
-- [Student Walkthroughs](./student-walkthroughs.md)
-- [Resource Library](./resource-library.md)
-- [Getting Started Transcript](./transcripts/getting-started-video.md)
+The first migrated transcript is:
 
-## Legacy video resources already identified
+- [Intro to Lab Bench](./intro-to-lab-bench.md)
+- [Avida-ED 4 Tutorial Videos](./avida-ed-4-tutorial-videos.md)
 
-The legacy curriculum and support pages referenced:
+The next transcript target is scaffolded with source metadata and publishing
+notes:
 
-- an Avida-ED 3 tutorial on YouTube
-- Avida-ED 4 tutorial videos
-- a QUBES walk-through with Cory Kohn and Louise Mead
-- exercise-specific MSU Mediaspace videos for the lab book
+- [Avida-ED Project Overview](./project-overview.md)
 
-These should be re-published here with stable metadata and transcript coverage.
-
-## When to use videos
-
-- before the first classroom run
-- as a refresher between class meetings
-- as a support option for students who need another explanation path
+More video items will be added here as they are transcribed and cleaned. Each
+video page should provide a usable text alternative even before final transcript
+review is complete.

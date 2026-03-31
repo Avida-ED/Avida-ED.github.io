@@ -2,22 +2,30 @@
 title: For Students
 ---
 
-This section helps you use Avida-ED efficiently and complete common class assignments.
+This section is for learners using Avida-ED in a class, lab, or independent
+study setting.
 
 ## Start here
 
-- [Student First Steps](./first-steps.md)
-- [Reports and Submission](./reports-and-submission.md)
-- If the app will not launch, use the [Troubleshooting Checklist](../get-started/troubleshooting.md).
+- [First Steps](./first-steps.md)
+- [Course Workflow](./course-workflow.md)
+- [Student FAQ](./faq.md)
+- [Videos](./videos.md)
+- [Launch Avida-ED](/app)
 
-## What you will usually be asked to do
+## What you will usually do
 
-- run an experiment with specified settings
+Students commonly use Avida-ED to:
+
+- run a baseline experiment
 - change one condition and run again
-- compare results and explain differences
-- export data or capture figures (depending on the assignment)
+- compare results across runs
+- explain what the evidence suggests about evolution
 
-## Need more help?
+## Good habits
 
-- Use [Student FAQ](../support/student-faq.md) for common problems.
-- Watch the [student walkthrough videos](../videos/student-walkthroughs.md) if your instructor assigns them.
+- record the settings you use
+- note what changed between runs
+- keep your assignment question in view while you work
+- save exported files right away if your assignment requires them
+- check your instructor's submission directions before you finish
