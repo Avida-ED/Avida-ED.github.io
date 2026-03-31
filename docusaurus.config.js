@@ -6,12 +6,12 @@ const config = {
   tagline: 'Digital evolution for education',
   favicon: 'img/favicon.ico',
 
-  // GitHub Pages canonical settings (project site)
+  // GitHub Pages canonical settings (user/org root site)
   url: 'https://avida-ed.github.io',
-  baseUrl: '/Avida-ED-Test3/',
+  baseUrl: '/',
 
   organizationName: 'Avida-ED',
-  projectName: 'Avida-ED-Test3',
+  projectName: 'Avida-ED.github.io',
 
   future: {
     v4: {
