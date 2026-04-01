@@ -51,10 +51,7 @@ markdown: {
       'classic',
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
-        docs: {
-          sidebarPath: './sidebars.js',
-          routeBasePath: '/docs',
-        },
+        docs: false,
         blog: false, // No blog/news feed; "News Archive" is a normal page.
         theme: {
           customCss: './src/css/custom.css',
@@ -90,7 +87,7 @@ markdown: {
             label: 'About',
             items: [
               { label: 'Digital Evolution', to: '/about/digital-evolution' },
-              { label: 'Download / Offline', to: '/download' },
+              { label: 'Download / Offline', to: '/help#downloads' },
               { label: 'News Archive', to: '/about/news-archive' },
               { label: 'Vintage Archive', to: '/about/vintage-archive' },
               { label: 'About Us', to: '/about/team' },

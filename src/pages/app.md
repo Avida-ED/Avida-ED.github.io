@@ -33,7 +33,7 @@ default choice for most courses and individual learners.
 
 ## Need an offline or downloadable version?
 
-Use the [Download / Offline](/download) page for installer and archive guidance.
+Use [Help](/help#downloads) for installer and archive guidance.
 That page now carries the legacy standalone and localhost patterns as fallback
 guidance rather than as the primary launch path.
 
@@ -43,7 +43,7 @@ The cleanest classroom path is:
 
 1. confirm the class should use Avida-ED 4
 2. test the link on the devices students will actually use
-3. point students to [For Students](/docs/students) for first steps and common
+3. point students to [Help](/help) for first steps and common
    workflow guidance
 
 ## Teaching with Avida-ED
@@ -52,5 +52,5 @@ If you are planning a course activity, the fastest path is:
 
 1. Launch the app and confirm it runs on your classroom devices.
 2. Review the [instructor curriculum hub](/curriculum).
-3. Send students to the [student materials](/docs/students) page for the
+3. Send students to the [Help](/help) page for the
    learner-facing orientation.

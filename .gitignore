@@ -28,6 +28,8 @@ Thumbs.db
 # Video transcript workspace
 transcripts/
 staging/
+!staging/not-in-use/
+!staging/not-in-use/**
 src/css/custom_green.css
 
 # Python/script ephemera
