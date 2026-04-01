@@ -9,7 +9,7 @@ title: Help
   <a href="#classroom-support-workflow">Classroom workflow</a>
   <a href="#troubleshooting">Troubleshooting</a>
   <a href="#downloads">Downloads</a>
-  <a href="#reporting-problems">Reporting problems</a>
+  <a href="#reporting-problems">Report problems</a>
 </nav>
 
 This page gathers the main support paths for students and instructors using
@@ -71,13 +71,13 @@ fail.
 
 ## Downloads
 
-For offline or legacy versions, use [Download / Offline](/download).
+For offline or legacy versions, use [Download](/about/vintage-archive).
 
 ## Reporting problems
 
 Every useful report should include:
 
-- Avida-ED version (for example, `4.0.33`)
+- Avida-ED version (for example `4.0.33`)
 - browser and operating system
 - whether the issue happened on one device or many
 - exact step where the issue appeared
@@ -94,7 +94,7 @@ If your course/institution permits it, include:
 
 ### Fast reporting template
 
-1. I was using `Avida-ED <version>`.
+1. I was using `Avida-ED <version>`. (for example `4.0.33`)
 2. I was working in `<browser + version>` on `<device/OS>`.
 3. I did these steps: `<step 1>`, `<step 2>`, `<step 3>`.
 4. I expected: `<expected behavior>`.

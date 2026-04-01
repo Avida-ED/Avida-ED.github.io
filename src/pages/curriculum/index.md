@@ -23,7 +23,10 @@ how instructors can receive supplemental materials for other exercises, contact
 `pennock5@msu.edu`.
 
 - [Avida-ED 3 Tutorial](https://www.youtube.com/watch?v=x7pISK-eBE8&t=13s) to get started
-- [Avida-ED 4 Tutorial Videos](/docs/videos/avida-ed-4-tutorial-videos)
+- Avida-ED 4 Tutorial Videos
+  - [App Intro](https://www.youtube.com/watch?v=ue2FVhIV9bI)
+  - [Organism View](https://www.youtube.com/watch?v=_pIjsatsI9Q)
+  - [Freezer Panel](https://www.youtube.com/watch?v=y1UFXkKFBGo)
 - Avida-ED
   [Walk-through](https://qubeshub.org/community/groups/quant_bio_online/forum/general-discussions/resource-walk-through-discussions/9480)
   with Cory Kohn and Louise Mead
