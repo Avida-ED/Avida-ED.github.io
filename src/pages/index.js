@@ -4,6 +4,11 @@ import Layout from '@theme/Layout';
 export default function Home() {
   const logoText = 'Digital Evolution for Education';
   const bodyText = 'Avida-ED is an award-winning educational application developed at Michigan State University for undergraduate biology courses. Researchers and educators designed Avida-ED to help students learn about evolution and scientific methods by allowing them to design and perform experiments to test hypotheses about evolutionary mechanisms using evolving digital organisms.';
+  const kalturaThumbnailAt10s =
+    'https://cfvod.kaltura.com/p/811482/sp/81148200/thumbnail/entry_id/1_rdyd9cnv/width/1280/height/720/vid_sec/10';
+  const iframeSrc = `https://cdnapisec.kaltura.com/p/811482/sp/81148200/embedIframeJs/uiconf_id/27551951/partner_id/811482?iframeembed=true&playerId=kaltura_player&entry_id=1_rdyd9cnv&flashvars[streamerType]=auto&flashvars[localizationCode]=en&flashvars[leadWithHTML5]=true&flashvars[sideBarContainer.plugin]=true&flashvars[sideBarContainer.position]=left&flashvars[sideBarContainer.clickToClose]=true&flashvars[chapters.plugin]=true&flashvars[chapters.layout]=vertical&flashvars[chapters.thumbnailRotator]=false&flashvars[streamSelector.plugin]=true&flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&flashvars[dualScreen.plugin]=true&flashvars[thumbnailUrl]=${encodeURIComponent(
+    kalturaThumbnailAt10s,
+  )}&wid=1_jhy13lc6`;
 
   return (
     <Layout title="Avida-ED" description="Digital evolution for education">
@@ -24,7 +29,7 @@ export default function Home() {
                 <div className="homeHero__videoWrap" aria-label="Avida-ED overview video">
                   <iframe
                     className="homeHero__video"
-                    src="https://cdnapisec.kaltura.com/p/811482/sp/81148200/embedIframeJs/uiconf_id/27551951/partner_id/811482?iframeembed=true&amp;playerId=kaltura_player&amp;entry_id=1_rdyd9cnv&amp;flashvars[streamerType]=auto&amp;flashvars[localizationCode]=en&amp;flashvars[leadWithHTML5]=true&amp;flashvars[sideBarContainer.plugin]=true&amp;flashvars[sideBarContainer.position]=left&amp;flashvars[sideBarContainer.clickToClose]=true&amp;flashvars[chapters.plugin]=true&amp;flashvars[chapters.layout]=vertical&amp;flashvars[chapters.thumbnailRotator]=false&amp;flashvars[streamSelector.plugin]=true&amp;flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&amp;flashvars[dualScreen.plugin]=true&amp;&amp;wid=1_jhy13lc6"
+                    src={iframeSrc}
                     title="Avida-ED Overview Video"
                     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                     allowFullScreen
