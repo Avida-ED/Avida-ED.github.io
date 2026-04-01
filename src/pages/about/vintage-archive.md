@@ -2,8 +2,8 @@
 title: Vintage Archive
 ---
 
-Legacy Web Version
-- [Avida-ED 3](https://avida-ed.github.io/Avida-ED3/AvidaED.html)
+## Legacy Web Version
+- [**Avida-ED 3**](https://avida-ed.github.io/Avida-ED3/AvidaED.html)
 
 ## Downloads
 
