@@ -51,14 +51,14 @@ Use a testable question such as:
 
 - Use default settings unless your lesson requires something else.
 - Have students record what they observe and the settings used, using guidance
-  from [Student First Steps](/docs/students/first-steps) if needed.
+  from [Help](/help) if needed.
 
 ### 3. Change one variable
 
 - Change one condition only.
 - Run again for the same duration or step count.
 - Compare the two outcomes using the assignment pattern in
-  [Course Workflow](/docs/students/course-workflow).
+  [this quick-start workflow](#in-class).
 
 ### 4. Require an explanation
 
@@ -80,7 +80,7 @@ A strong student response should identify:
 ## Keep nearby
 
 - [Help](/help)
-- [Troubleshooting](/docs/support/troubleshooting)
-- [Student First Steps](/docs/students/first-steps)
-- [Course Workflow](/docs/students/course-workflow)
-- [Avida-ED 4 Tutorial Videos](/docs/videos/avida-ed-4-tutorial-videos)
+- [Troubleshooting](/help#troubleshooting)
+- [Help Videos](/help#help-videos)
+- [Lab Manual](/curriculum/lab-manual)
+- [Model Lessons](/curriculum/model-lessons)

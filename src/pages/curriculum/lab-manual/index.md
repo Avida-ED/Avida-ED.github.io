@@ -69,5 +69,5 @@ support rather than as a replacement for the written exercise structure.
 
 ## Related video support
 
-- [Avida-ED 4 Tutorial Videos](/docs/videos/avida-ed-4-tutorial-videos)
-- [Videos and Transcripts](/docs/videos)
+- [Avida-ED 4 Tutorial Videos](/help#help-videos)
+- [Help and Troubleshooting](/help)

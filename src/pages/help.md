@@ -17,7 +17,7 @@ Avida-ED.
 
 ## Common starting points
 
-- Start from [Launch Avida-ED 4](/app).
+- Start from [Launch Avida-ED 4](https://avida-ed.github.io/Avida-ED4/).
 - For course materials, use the [Curriculum page](/curriculum).
 - For those still using [Avida-ED 3](https://avida-ed.github.io/Avida-ED3/AvidaED.html)
 
@@ -100,5 +100,5 @@ If your course/institution permits it, include:
 5. I observed: `<actual behavior>`.
 6. I retried and the result `<did/did not>` change.
 
-For full reporting guidance, use [Support Docs](/docs/support) and
-[Reporting Problems](/docs/support/reporting-problems).
+For full reporting guidance, use the sections on this page and contact
+`Avida-ed-development@googlegroups.com` with the template above.

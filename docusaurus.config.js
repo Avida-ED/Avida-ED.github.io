@@ -87,7 +87,6 @@ markdown: {
             label: 'About',
             items: [
               { label: 'Digital Evolution', to: '/about/digital-evolution' },
-              { label: 'Download / Offline', to: '/help#downloads' },
               { label: 'News Archive', to: '/about/news-archive' },
               { label: 'Vintage Archive', to: '/about/vintage-archive' },
               { label: 'About Us', to: '/about/team' },

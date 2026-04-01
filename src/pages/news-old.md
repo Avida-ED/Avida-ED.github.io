@@ -28,7 +28,7 @@ prepare a lesson.
 ## Where current readers should usually go instead
 
 - [Launch Avida-ED](/app)
-- [For Students](/docs/students)
+- [Help](/help)
 - [For Instructors](/curriculum)
 - [Help](/help)
 - [Vintage Archive](/about/vintage-archive)

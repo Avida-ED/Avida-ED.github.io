@@ -8,7 +8,7 @@ title: About Us
 > ["Learning Evolution and the Nature of Science using Evolutionary Computing and Artificial Life"](http://www.msu.edu/~pennock5/research/papers/Pennock_LENSwEvoComp.pdf)
 > *McGill Journal of Education* (Vol. 42, No. 2, pp. 211-224, 2007)
 
-## Principle Investigators
+## Principal Investigators
 
 - [Robert T. Pennock](https://www.msu.edu/~pennock5/) (PI), Michigan State University
 - [Richard Lenski](http://myxo.css.msu.edu/index.html) (Co-PI), Michigan State University
