@@ -19,8 +19,7 @@ Avida-ED.
 
 - Start from [Launch Avida-ED 4](/app).
 - For course materials, use the [Curriculum page](/curriculum).
-- For transcript-first walkthroughs, use
-  [Videos and Transcripts](/docs/videos).
+- For those still using [Avida-ED 3](https://avida-ed.github.io/Avida-ED3/AvidaED.html)
 
 ## Help videos
 
