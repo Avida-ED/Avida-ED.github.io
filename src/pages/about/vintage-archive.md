@@ -1,6 +1,8 @@
 ---
 title: Vintage Archive
 ---
+Legacy Web Version
+- [Avida-ED 3](https://avida-ed.github.io/Avida-ED3/AvidaED.html)
 
 Legacy downloads from the original Vintage Archive page:
 
@@ -24,10 +26,10 @@ Legacy version-history content consolidated here from
 
 ### Changelog symbol key (legacy)
 
-- `check` = bug fix
-- `change` = change/update
-- `plus` = feature addition
-- `minus` = feature removal
+- ![](/img/about/changelog/changelog-symbols-check.png) = bug fix
+- ![](/img/about/changelog/changelog-symbols-change.png) = change/update
+- ![](/img/about/changelog/changelog-symbols-plus.png) = feature addition
+- ![](/img/about/changelog/changelog-symbols-minus.png) = feature removal
 
 ### 3.x releases
 
@@ -124,5 +126,3 @@ Avida-ED public distribution release announced at the Society for the Study of
 Evolution meeting in Christchurch, New Zealand.
 
 ---
-
-Page updated 2020/03/03 (legacy source)

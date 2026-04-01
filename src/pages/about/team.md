@@ -8,7 +8,7 @@ title: About Us
 > ["Learning Evolution and the Nature of Science using Evolutionary Computing and Artificial Life"](http://www.msu.edu/~pennock5/research/papers/Pennock_LENSwEvoComp.pdf)
 > *McGill Journal of Education* (Vol. 42, No. 2, pp. 211-224, 2007)
 
-## CORE PARTICIPANTS
+## Principle Investigators
 
 - [Robert T. Pennock](https://www.msu.edu/~pennock5/) (PI), Michigan State University
 - [Richard Lenski](http://myxo.css.msu.edu/index.html) (Co-PI), Michigan State University
@@ -16,11 +16,11 @@ title: About Us
 - [Louise Mead](http://beacon-center.org/education-outreach/) (Co-PI), Michigan State University
 - [Jim Smith](https://www.msu.edu/user/jimsmith/) (Co-PI), Michigan State University
 
-## CURRENT STUDENTS, POSTDOCS & PROGRAMMERS
+## Current Staff
 - [Diane Blackwood](https://www.linkedin.com/in/dianeblackwood), Software Developer
 - [Wesley Elsberry](https://en.wikipedia.org/wiki/Wesley_R._Elsberry), Software Developer
 
-## PREVIOUS STUDENTS, POSTDOCS, PROGRAMMERS &  PERSONNEL
+## Personnel
 
 - [Eric Berling](https://philosophy.msu.edu/graduate-students/eric-berling/), Graduate Research Assistant
 - [Reid Blanchett](https://www.linkedin.com/in/reid-blanchett-419aaa5a/), Graduate Research Assistant
@@ -43,11 +43,4 @@ title: About Us
 - [Ben Kerr](http://kerrlab.org) (Senior Personnel), University of Washington
 - [Gerald Urquhart](https://tinyurl.com/gerald-urquhart) (Senior Personnel), Michigan State University
 - [Terence Soule](http://www2.cs.uidaho.edu/~tsoule/) (Senior Personnel), University of Idaho
-
-
-## EXTERNAL ADVISORY COMMITTEE
-
-- [E. Margaret Evans](http://www-personal.umich.edu/~evansem/), University of Michigan
-- [Ross Nehm](http://sciedphd.stonybrook.edu/content/dr-ross-nehm), Stony Brook University
-- [Brad Williamson](https://cstem.ku.edu/brad-williamson), Kansas University
 
